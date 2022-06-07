@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicketBox 201111002_Ivan_Andy_Ramadhan Kelas-A</string>
+    <array name="listkota">
+        <item>DKI Jakarta</item>
+        <item>Medan</item>
+        <item>Semarang</item>
+        <item>Malang</item>
+    </array>
+    <string name="info_Detail">Aplikasi ini dirancang untuk memudahkan calon penonton yang ingin menonton sebuah tiket konser band Aqours, karena dengan aplikasi ini para calon tidak diharuskan membeli serta mengantri demi mendapatkan tiket konser akan tetapi hanya dengan menggunakan aplikasi ini calon penonton dapat membeli tiket konser tersebut. \ndengan berbekal informasi konser yang lengkap, calon penonton dapat mengerti tempat mana saja dan pada tanggal berapa saja konser akan berlangsung</string>
+</resources>
